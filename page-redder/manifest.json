@@ -2,7 +2,7 @@
     "name": "Page Redder",
     "action": {},
     "manifest_version": 3,
-    "version": "0.1",
+    "version": "0.2",
     "description": "Turns the page red when you click the icon",
     "permissions": [
       "activeTab",
